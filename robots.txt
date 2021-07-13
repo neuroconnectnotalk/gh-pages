@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://neuroconnectnotalk.github.io/gh-pages/sitemap.xml
